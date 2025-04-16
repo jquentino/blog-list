@@ -1,0 +1,17 @@
+{
+  "name": "blog-list",
+  "version": "1.0.0",
+  "description": "blog list project from full stack open course (module 4)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node --watch index.js",
+    "start": "node index.js"
+  },
+  "author": "Jucelio Quentino",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongoose": "^8.13.2"
+  }
+}
